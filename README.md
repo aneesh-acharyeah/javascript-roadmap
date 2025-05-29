@@ -1,7 +1,5 @@
 # JavaScript Roadmap
 
-![JavaScript](https://github.com/aneesh-acharyeah/javascript-roadmap/blob/main/javascript.pdf)
-
 This repository contains a comprehensive JavaScript roadmap PDF covering fundamental to advanced concepts.
 
 ## Contents Overview
